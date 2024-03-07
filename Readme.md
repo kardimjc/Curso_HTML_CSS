@@ -1,0 +1,1 @@
+Olá, esta pasta é de estudo e do meu primeiro projeto em HTML e CSS.
